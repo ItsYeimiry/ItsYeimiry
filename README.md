@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=header&animation=fadeIn" width="100%" />
+<img src="assets/banner-upside-down.jpg" width="100%" alt="banner" />
 
-# Hey, soy Yeimiry &nbsp;👋
+<br/>
 
-**Diseñadora web junior &nbsp;·&nbsp; Estudiante del INA &nbsp;·&nbsp; Costa Rica**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0F&height=90&section=header" width="100%" />
 
-*" No está mal aprender cosas nuevas. "*
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=900&color=FF2E4C&center=true&vCenter=true&width=600&lines=Hey%2C+soy+Yeimiry+%F0%9F%96%A4;Dise%C3%B1adora+web+junior;Estudiante+del+INA+%E2%80%A2+Costa+Rica;No+est%C3%A1+mal+aprender+cosas+nuevas." alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=ItsYeimiry&label=Visitas%20al%20perfil&color=ff2e4c&style=flat-square" alt="visitor badge" />
+
+</div>
 
 <br/>
 
@@ -14,22 +18,62 @@
 
 ### 🖤 Sobre mí
 
-Aprendiendo a construir webs que se vean tan bien como funcionan.  
-Apasionada por el diseño limpio, los detalles que importan  
-y crear experiencias digitales con intención.
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```js
+const yeimiry = {
+  rol: "Diseñadora web junior",
+  ubicación: "Costa Rica 🇨🇷",
+  estudios: "INA — Desarrollo Web",
+
+  aprendiendo: [
+    "CSS avanzado",
+    "JavaScript vanilla",
+    "diseño UI/UX",
+  ],
+
+  construyendo: "mi primer web template premium",
+
+  frase: "No está mal aprender cosas nuevas.",
+};
+```
+
+</td>
+<td width="45%">
+<img src="assets/banner-code-crown.jpg" width="100%" alt="workspace" />
+</td>
+</tr>
+</table>
 
 <br/>
 
 ---
 
-### 🛠️ Tecnologías
+### 🔗 Connect With Me
 
-![HTML5](https://img.shields.io/badge/HTML5-1a1625?style=for-the-badge&logo=html5&logoColor=c4b5fd)
-![CSS3](https://img.shields.io/badge/CSS3-1a1625?style=for-the-badge&logo=css3&logoColor=c4b5fd)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1625?style=for-the-badge&logo=javascript&logoColor=c4b5fd)
-![Git](https://img.shields.io/badge/Git-1a1625?style=for-the-badge&logo=git&logoColor=c4b5fd)
-![GitHub](https://img.shields.io/badge/GitHub-1a1625?style=for-the-badge&logo=github&logoColor=c4b5fd)
-![VS Code](https://img.shields.io/badge/VS_Code-1a1625?style=for-the-badge&logo=visualstudiocode&logoColor=c4b5fd)
+<p align="center">
+<a href="mailto:culquiorra74@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-150808?style=for-the-badge&logo=gmail&logoColor=ff4d5e" />
+</a>
+<a href="https://instagram.com/subaru.balse" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-150808?style=for-the-badge&logo=instagram&logoColor=ff4d5e" />
+</a>
+<a href="https://github.com/ItsYeimiry" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-150808?style=for-the-badge&logo=github&logoColor=ff4d5e" />
+</a>
+</p>
+
+<br/>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
+</p>
 
 <br/>
 
@@ -37,31 +81,38 @@ y crear experiencias digitales con intención.
 
 ### ✨ Actualmente
 
-🎓 &nbsp;Estudiando desarrollo web en el INA  
-🧩 &nbsp;Construyendo mi primer web template premium  
-📖 &nbsp;Aprendiendo CSS avanzado y JavaScript vanilla  
+🎓 &nbsp;Estudiando desarrollo web en el INA
+🧩 &nbsp;Construyendo mi primer web template premium
+📖 &nbsp;Aprendiendo CSS avanzado y JavaScript vanilla
 
 <br/>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=ItsYeimiry&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0f&title_color=c4b5fd&text_color=9890b8&icon_color=7c3aed" />
-&nbsp;
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsYeimiry&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0f&title_color=c4b5fd&text_color=9890b8" />
+<p align="center">
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=ItsYeimiry&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=FF2E4C&text_color=C9C3C3&icon_color=FF2E4C" />
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsYeimiry&layout=compact&hide_border=true&bg_color=0D0D0F&title_color=FF2E4C&text_color=C9C3C3" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsYeimiry&hide_border=true&background=0D0D0FFF&ring=FF2E4C&fire=FF2E4C&currStreakLabel=FF2E4C&sideLabels=C9C3C3&currStreakNum=C9C3C3&sideNums=C9C3C3&dates=8A8585" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ItsYeimiry&theme=shadow_red&no-frame=true&margin-w=8&row=1" />
+</p>
 
 <br/>
 
 ---
 
-### 📬 Contacto
+<div align="center">
 
-[![Gmail](https://img.shields.io/badge/culquiorra74@gmail.com-1a1625?style=for-the-badge&logo=gmail&logoColor=c4b5fd)](mailto:culquiorra74@gmail.com)
+<img src="assets/banner-yhwach.jpg" width="100%" alt="closing banner" />
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0F&height=90&section=footer" width="100%" />
 
 *✦ &nbsp; made with curiosity & a lot of css &nbsp; ✦*
 
