@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0F&height=90&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=900&color=FF2E4C&center=true&vCenter=true&width=600&lines=Hey%2C+soy+Yeimiry+%F0%9F%96%A4;Dise%C3%B1adora+web+junior;Estudiante+del+INA+%E2%80%A2+Costa+Rica;No+est%C3%A1+mal+aprender+cosas+nuevas." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=900&color=FF2E4C&center=true&vCenter=true&width=600&lines=Hey%2C+soy+Yeimiry+%F0%9F%96%A4;Dise%C3%B1adora+web+junior;Mi+c%C3%B3digo+es+mi+Zanpakut%C5%8D+%E2%9A%94%EF%B8%8F;No+est%C3%A1+mal+aprender+cosas+nuevas." alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=ItsYeimiry&label=Visitas%20al%20perfil&color=ff2e4c&style=flat-square" alt="visitor badge" />
 
@@ -102,6 +102,17 @@ const yeimiry = {
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ItsYeimiry&theme=shadow_red&no-frame=true&margin-w=8&row=1" />
+</p>
+
+<p align="center">
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ItsYeimiry&theme=react-dark&bg_color=0D0D0F&color=FF2E4C&line=FF2E4C&point=FFFFFF&area=true&area_color=FF2E4C&hide_border=true" />
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsYeimiry/ItsYeimiry/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/ItsYeimiry/ItsYeimiry/output/github-contribution-grid-snake.svg" />
+</picture>
 </p>
 
 <br/>
