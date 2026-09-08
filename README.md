@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0F&height=90&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=900&color=FF2E4C&center=true&vCenter=true&width=600&lines=Hey%2C+soy+Yeimiry+%F0%9F%96%A4;Dise%C3%B1adora+web+junior;Mi+c%C3%B3digo+es+mi+Zanpakut%C5%8D+%E2%9A%94%EF%B8%8F;No+est%C3%A1+mal+aprender+cosas+nuevas." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3500&pause=1200&color=FF2E4C&center=true&vCenter=true&width=680&lines=Hey%2C+soy+Yeimiry+%F0%9F%96%A4;Dise%C3%B1adora+web+junior;No+ca%C3%AD...+solo+estaba+un+escal%C3%B3n+m%C3%A1s+arriba.+%E2%80%94+Aizen;No+est%C3%A1+mal+aprender+cosas+nuevas." alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=ItsYeimiry&label=Visitas%20al%20perfil&color=ff2e4c&style=flat-square" alt="visitor badge" />
 
@@ -127,7 +127,7 @@ const yeimiry = {
 
 <div align="center">
 
-<img src="assets/banner-yhwach.jpg" width="100%" alt="closing banner" />
+<img src="assets/banner-closing.jpg" width="260" alt="closing banner" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0F&height=90&section=footer" width="100%" />
 
