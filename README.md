@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0F&height=90&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3500&pause=1200&color=FF2E4C&center=true&vCenter=true&width=680&lines=Hey%2C+soy+Yeimiry+%F0%9F%96%A4;Dise%C3%B1adora+web+junior;No+ca%C3%AD...+solo+estaba+un+escal%C3%B3n+m%C3%A1s+arriba.+%E2%80%94+Aizen;No+est%C3%A1+mal+aprender+cosas+nuevas." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1200&color=FF2E4C&center=true&vCenter=true&width=680&lines=No+ca%C3%AD...+solo+estaba+un+escal%C3%B3n+m%C3%A1s+arriba.;El+poder+no+es+fuerza.+Es+la+voluntad+de+proteger+algo.;S%C3%B3lo+los+que+est%C3%A1n+dispuestos+a+ser+asesinados+pueden+matar." alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=ItsYeimiry&label=Visitas%20al%20perfil&color=ff2e4c&style=flat-square" alt="visitor badge" />
 
@@ -16,7 +16,7 @@
 
 ---
 
-### 🖤 Sobre mí
+### Sobre mí
 
 <table>
 <tr>
@@ -25,7 +25,7 @@
 ```js
 const yeimiry = {
   rol: "Diseñadora web junior",
-  ubicación: "Costa Rica 🇨🇷",
+  ubicación: "Costa Rica",
   estudios: "INA — Desarrollo Web",
 
   aprendiendo: [
@@ -51,7 +51,7 @@ const yeimiry = {
 
 ---
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="center">
 <a href="mailto:culquiorra74@gmail.com">
@@ -69,7 +69,7 @@ const yeimiry = {
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
@@ -79,11 +79,11 @@ const yeimiry = {
 
 ---
 
-### ✨ Actualmente
+### Actualmente
 
-🎓 &nbsp;Estudiando desarrollo web en el INA
-🧩 &nbsp;Construyendo mi primer web template premium
-📖 &nbsp;Aprendiendo CSS avanzado y JavaScript vanilla
+Estudiando desarrollo web en el INA <br/>
+Construyendo mi primer web template premium <br/>
+Aprendiendo CSS avanzado y JavaScript vanilla
 
 <br/>
 
@@ -95,7 +95,7 @@ const yeimiry = {
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
 <img height="165px" src="https://github-readme-stats.vercel.app/api?username=ItsYeimiry&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=FF2E4C&text_color=C9C3C3&icon_color=FF2E4C" />
@@ -131,6 +131,6 @@ const yeimiry = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0F&height=90&section=footer" width="100%" />
 
-*✦ &nbsp; made with curiosity & a lot of css &nbsp; ✦*
+*made with curiosity & a lot of css*
 
 </div>
