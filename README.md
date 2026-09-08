@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-upside-down.jpg" width="100%" alt="banner" />
+<img src="assets/banner-mural.jpg" width="100%" alt="banner" />
 
 <br/>
 
@@ -84,6 +84,12 @@ const yeimiry = {
 🎓 &nbsp;Estudiando desarrollo web en el INA
 🧩 &nbsp;Construyendo mi primer web template premium
 📖 &nbsp;Aprendiendo CSS avanzado y JavaScript vanilla
+
+<br/>
+
+<div align="center">
+<img src="assets/banner-ichigo-hallway.jpg" width="100%" alt="divider" />
+</div>
 
 <br/>
 
